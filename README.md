@@ -21,6 +21,6 @@ kaggle.com -Customer churn data
 
 ![Dashboard preview](https://github.com/Himanshi-Yadav10/ChurnAnalysis/blob/main/ChurnAnalysis%20dashboard1.png).
 
-![Dashboard preview]()
+![Dashboard preview](https://github.com/Himanshi-Yadav10/ChurnAnalysis/blob/main/ChurnAnalysis%20dashboard2.png).
 
 
