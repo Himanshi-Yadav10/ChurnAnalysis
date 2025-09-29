@@ -9,12 +9,12 @@ The customer churn analytics dashboard is a visually engaging and analytical Pow
 
 ## Tech Stack
 List of technologies used in this project-
-1- Microsoft SQL Server- ETL Process
-2- Power Query- Data transformation, and adding new required columns
-3- Power BI Desktop- Data visualization used for report creation
-4- Dax- Used for calculated measures, dynamic visuals and conditional logic.
-5- Python- Predict customer churn
-6- Random Forest- Machine learning algorithm used for creating churn prediction model
+- **Microsoft SQL Server** - ETL Process
+- **Power Query** - Data transformation, and adding new required columns
+- **Power BI Desktop** - Data visualization used for report creation
+- **Dax**- Used for calculated measures, dynamic visuals and conditional logic.
+- **Python** - Predict customer churn
+- **Random Forest** - Machine learning algorithm used for creating churn prediction model
 
 ## Data Sources
 kaggle.com -Customer churn data
