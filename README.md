@@ -19,6 +19,6 @@ List of technologies used in this project-
 ## Data Sources
 kaggle.com -Customer churn data
 
-https://github.com/Himanshi-Yadav10/ChurnAnalysis/blob/main/ChurnAnalysis%20dashboard1.png
+![Dashboard preview] (https://github.com/Himanshi-Yadav10/ChurnAnalysis/blob/main/ChurnAnalysis%20dashboard1.png)
 
 
