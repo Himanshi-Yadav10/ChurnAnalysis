@@ -1,13 +1,13 @@
 # Customer Churn Analysis and predicting future churners
 
-##Overview
+## Overview
 Customer Churn Analysis
 This interactive dashboard visualizes and analysis customer data to reduce customer attrition and study Churner profile to identifying areas for implementing marketing campaigns.And identifying a method to predict future churners.
 
-##Project goals
+## Project goals
 The customer churn analytics dashboard is a visually engaging and analytical Power BI report designed to help users identify patterns and reasons behind customer departures. By using advanced data analytics and machine learning, businesses can predict which customers are at risk of leaving and understand the factors driving their decisions. 
 
-##Tech Stack
+## Tech Stack
 List of technologies used in this project-
 1- Microsoft SQL Server- ETL Process
 2- Power Query- Data transformation, and adding new required columns
@@ -16,9 +16,9 @@ List of technologies used in this project-
 5- Python- Predict customer churn
 6- Random Forest- Machine learning algorithm used for creating churn prediction model
 
-##Data Sources
+## Data Sources
 kaggle.com -Customer churn data
 
 https://github.com/Himanshi-Yadav10/ChurnAnalysis/blob/main/ChurnAnalysis%20dashboard1.png
 
-https://github.com/Himanshi-Yadav10/ChurnAnalysis/blob/main/ChurnAnalysis%20dashboard2.png
+
